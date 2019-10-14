@@ -1,0 +1,145 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+}
+
+body{
+	background: url("../img/bg/main.jpg") center center/cover no-repeat;
+}
+
+header{
+	width: 100%;
+	height: 100px;
+	background: url("../img/main.jpg") center center/cover no-repeat;
+}
+
+h1{
+	text-align: center;
+	color: #fff;
+	font-size: 50px;
+	padding-top: 10px;
+}
+h2{
+	color:#fff;
+	font-size: 35px;
+}
+
+nav{
+	background: url("../img/menu.jpg") center center/cover no-repeat;
+	height: 80px;
+}
+
+.lala{
+	text-align: center;
+	padding-top: 15px;
+}
+.button{text-decoration:none; text-align:center; 
+ padding:11px 32px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:18px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#1a647d; 
+ background-image: -moz-linear-gradient(top, #1a647d 0%, #3ca519 100%); 
+ background-image: -webkit-linear-gradient(top, #1a647d 0%, #3ca519 100%); 
+ background-image: -o-linear-gradient(top, #1a647d 0%, #3ca519 100%); 
+ background-image: -ms-linear-gradient(top, #1a647d 0% ,#3ca519 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3ca519', endColorstr='#3ca519',GradientType=0 ); 
+ background-image: linear-gradient(top, #1a647d 0% ,#3ca519 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+ display: inline;
+ margin-left: 30px;
+  
+  }.button:hover{
+ padding:11px 32px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:18px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#3BA4C7; 
+ background-image: -moz-linear-gradient(top, #3BA4C7 0%, #1982A5 100%); 
+ background-image: -webkit-linear-gradient(top, #3BA4C7 0%, #1982A5 100%); 
+ background-image: -o-linear-gradient(top, #3BA4C7 0%, #1982A5 100%); 
+ background-image: -ms-linear-gradient(top, #3BA4C7 0% ,#1982A5 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982A5', endColorstr='#1982A5',GradientType=0 ); 
+ background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }.button:active{
+ padding:11px 32px; 
+ border:solid 1px #004F72; 
+ -webkit-border-radius:4px;
+ -moz-border-radius:4px; 
+ border-radius: 4px; 
+ font:18px Arial, Helvetica, sans-serif; 
+ font-weight:bold; 
+ color:#E5FFFF; 
+ background-color:#3BA4C7; 
+ background-image: -moz-linear-gradient(top, #3BA4C7 0%, #1982A5 100%); 
+ background-image: -webkit-linear-gradient(top, #3BA4C7 0%, #1982A5 100%); 
+ background-image: -o-linear-gradient(top, #3BA4C7 0%, #1982A5 100%); 
+ background-image: -ms-linear-gradient(top, #3BA4C7 0% ,#1982A5 100%); 
+ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1982A5', endColorstr='#1982A5',GradientType=0 ); 
+ background-image: linear-gradient(top, #3BA4C7 0% ,#1982A5 100%);   
+ -webkit-box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff; 
+ -moz-box-shadow: 0px 0px 2px #bababa,  inset 0px 0px 1px #ffffff;  
+ box-shadow:0px 0px 2px #bababa, inset 0px 0px 1px #ffffff;  
+  
+ }
+ .descr{
+	text-align: justify;
+	font-size: 25px;
+	color: #fff;
+ }
+ .image{
+ 	display: inline-block;
+ 	margin-left: 100px;
+ 	width: 500px;
+
+ }
+.button a{
+	text-decoration: none;
+	color:#E5FFFF;
+ }
+
+p{
+	text-align: justify;
+	color: #fff;
+	font-size: 20px;
+}
+.r_img{
+	display: block;
+	margin-left: 950px;
+}
+.r2_img{
+	display: block;
+	margin-top: -250px;
+	margin-left: 100px;
+}
+.v_img{
+	position: absolute;
+	top: 925px;
+	left: 650px;
+}
+.f_img{
+	position: absolute;
+	top: 1320px;
+	left: 850px;
+}
+.d_img{
+	position: absolute;
+	top: 1650px;
+	left: 860px;
+}
